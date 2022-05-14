@@ -189,7 +189,7 @@ textarea.form-control{ height: auto; padding: 10px;}
 .myui-vodlist__thumb{ display: block; position: relative; background-position: 50% 50% !important; background-size: cover !important; overflow: hidden; box-shadow: 0 1px 2px rgba(0,0,0,.1);}
 .myui-vodlist__thumb.picture { background: none; overflow: hidden;}
 .myui-vodlist__thumb.picture img{ position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
-.myui-vodlist__thumb .play{ opacity: 0; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%; background: rgba(0,0,0,0.2) url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-d60abdfa-fb40-471b-be0d-9707f4697b80/3d31d4c5-5f25-4b1b-88ca-3b57eecd4c61.png) center no-repeat; background-color: rgba(0,0,0,.2); -webkit-transition: all ease-out .35s; transition: all ease-out .35s;}
+.myui-vodlist__thumb .play{ opacity: 0; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%; background: rgba(0,0,0,0.2) url(https://www.huaqi.pro/Fuck-j5c8nv8g-wc7d-40gp-0vzj-7179a439b55/3d31d4c5-5f25-4b1b-88ca-3b57eecd4c61.png) center no-repeat; background-color: rgba(0,0,0,.2); -webkit-transition: all ease-out .35s; transition: all ease-out .35s;}
 .myui-vodlist__thumb .play-v{ opacity: 0; position: absolute; top: 0; z-index: 1; width: 100%; height: 100%; background-color: rgba(0,0,0,.2); -webkit-transition: all ease-out .35s; transition: all ease-out .35s;}
 .myui-vodlist__thumb .play.active{ opacity: 1;}
 .myui-vodlist__thumb:hover .play,.myui-vodlist__thumb:hover .play-v{ opacity: 1;}
@@ -364,8 +364,8 @@ textarea.form-control{ height: auto; padding: 10px;}
 
 /* mobile-share */
 .mobile-share{ position: fixed; z-index: 999; top: 0; bottom: 0; left: 0; width: 100%; height: 100%; animation: fade-in; animation-duration: .5s; -webkit-animation:fade-in .5s;}
-.share-weixin{ background: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-d60abdfa-fb40-471b-be0d-9707f4697b80/ee3862b3-33cc-4e03-adcb-5d3813261f11.png) rgba(0, 0, 0, .8) no-repeat; background-position: right top 10px; background-size: 80%;}
-.share-other{ background: url(https://vkceyugu.cdn.bspapp.com/VKCEYUGU-d60abdfa-fb40-471b-be0d-9707f4697b80/0222418e-e23a-408d-b955-945a3e21d30c.png) rgba(0, 0, 0, .8) no-repeat; background-position: center bottom 10px; background-size: 80%;}
+.share-weixin{ background: url(https://www.huaqi.pro/Fuck-j5c8nv8g-wc7d-40gp-0vzj-7179a439b55/ee3862b3-33cc-4e03-adcb-5d3813261f11.png) rgba(0, 0, 0, .8) no-repeat; background-position: right top 10px; background-size: 80%;}
+.share-other{ background: url(https://www.huaqi.pro/Fuck-j5c8nv8g-wc7d-40gp-0vzj-7179a439b55/0222418e-e23a-408d-b955-945a3e21d30c.png) rgba(0, 0, 0, .8) no-repeat; background-position: center bottom 10px; background-size: 80%;}
 
 /* taddar */
 .myui-nav__tabbar{ display: none;}
